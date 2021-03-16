@@ -182,7 +182,7 @@ fun InfoCard(title: Int, text: String) {
     Card(
         modifier = Modifier
             .padding(start = 8.dp, end = 8.dp, top = 8.dp)
-            .size(85.dp, 64.dp)
+            .size(80.dp, 64.dp)
             .clip(RoundedCornerShape(12.dp)),
         elevation = 8.dp,
         backgroundColor = behaviourBackground
