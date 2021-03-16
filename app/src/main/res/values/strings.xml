@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Expand your family</string>
+    <string name="pet_adopt_title">Adopt Me!</string>
+    <string name="about_pet">About</string>
+    <string name="adopt_button">Adopt</string>
+</resources>
