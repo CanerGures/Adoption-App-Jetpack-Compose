@@ -14,3 +14,6 @@ A dog adoption app made with jetpack compose for #AndroidDevChallange
 The app uses MVVM [Model-View-ViewModel] and Repository architecture to have a unidirectional flow of data, separation of concern, and a lot more which is recommended by Google itself.
 
 ![Architecture](https://developer.android.com/topic/libraries/architecture/images/final-architecture.png)
+
+## Credit
+I give my thanks to Rebecca Franks(@riggaroo). I learned so much from her adoption app about Jetpack Compose implementations.
